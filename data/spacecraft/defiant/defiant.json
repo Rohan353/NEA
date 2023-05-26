@@ -1,0 +1,21 @@
+{
+    "name": "defiant",
+    "thrust": 0.0017,
+    "turn_rate": 0.4,
+    "fuel": 1000,
+    "fuel_rate": 0.07,
+    "craft": "defiant.png",
+    "resize": 0.14,
+    "warm_up": [
+        "defiant_warming1.png",
+        "defiant_warming2.png",
+        "defiant_warming3.png"
+    ],
+    "flicker": [
+        "defiant_flickering1.png",
+        "defiant_flickering2.png",
+        "defiant_flickering3.png",
+        "defiant_warming3.png"
+    ],
+    "pad_height": 5
+}

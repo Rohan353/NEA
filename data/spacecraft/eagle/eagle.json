@@ -1,0 +1,22 @@
+{
+    "name": "eagle",
+    "thrust": 0.001,
+    "turn_rate": 0.6,
+    "fuel": 500,
+    "fuel_rate": 0.05,
+    "craft": "eagle.png",
+    "resize": 1.4,
+    "warm_up": [
+        "eagle_warm1.png",
+        "eagle_warm2.png",
+        "eagle_warm3.png"
+    ],
+    "flicker": [
+        "eagle_thrust1.png",
+        "eagle_warm3.png",
+        "eagle_thrust2.png",
+        "eagle_thrust3.png",
+        "eagle_warm3.png"
+    ],
+    "pad_height": 14
+}

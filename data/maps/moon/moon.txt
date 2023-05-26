@@ -1,0 +1,8 @@
+{
+    "octaves": 5,
+    "frequency": 0.0010,
+    "exp": 1,
+    "mult": 350,
+    "spacing": 10,
+    "offset": 450
+}
